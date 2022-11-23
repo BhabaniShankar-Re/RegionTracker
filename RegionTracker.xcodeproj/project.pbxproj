@@ -74,6 +74,7 @@
 		FDB769CF292E2453004CEBE5 /* LocationsForSimulation.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; name = LocationsForSimulation.gpx; path = ../../../../Downloads/LocationsForSimulation.gpx; sourceTree = "<group>"; };
 		FDB769D0292E2A09004CEBE5 /* Regions.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Regions.plist; sourceTree = "<group>"; };
 		FDB769D2292E516C004CEBE5 /* RegionTrackerConfigurator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegionTrackerConfigurator.swift; sourceTree = "<group>"; };
+		FDB769D4292E647C004CEBE5 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -134,6 +135,7 @@
 				FD73BFCF292D4B9100EE7F1C /* RegionTracker */,
 				FD73BFE6292D4B9200EE7F1C /* RegionTrackerTests */,
 				FD73BFF0292D4B9200EE7F1C /* RegionTrackerUITests */,
+				FDB769D4292E647C004CEBE5 /* README.md */,
 				FD73BFCE292D4B9100EE7F1C /* Products */,
 			);
 			sourceTree = "<group>";
